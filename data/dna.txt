@@ -2,6 +2,7 @@
     "html": [
         "README.md",
         "fork.html",
+        "geometron.js",
         "index.html",
         "readme.html",
         "readmeeditor.html",
