@@ -1,20 +1,6 @@
-# [CART](https://github.com/LafeLabs/cart)
+# [BACK UP A LEVEL](../)
 
-![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/qrcode.png)
-![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/qrcode-page.png)
-
- - [books/](books/)
- - [zines/](zines/)
- - [freestore/](freestore/)
- - [music/](music/)
- - [fashion/](fashion/)
- - [podcasts/](podcasts/)
- - [science/](science/)
- - [networks/](networks/)
- - [cart bill of materials/](bom/)
-
-
-# BILL OF MATERIALS 
+# CART BILL OF MATERIALS(BOM)
 
 
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/pi-amazon.png)](https://www.amazon.com/gp/product/B07TC2BK1X/)
@@ -24,7 +10,7 @@
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/wifi-amazon.png)](https://www.amazon.com/gp/product/B0BHW6T96R/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/wifi-antenna-amazon.png)](https://www.amazon.com/gp/product/B07D32NNKF/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/thumb-drive-amazon.png)](https://www.amazon.com/gp/product/B082ZGHXK8/)
-[![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/sdr-amazon.png)](https://www.amazon.com/gp/product/B01HA642SW/)
+[![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/sdr-amazon.png))](https://www.amazon.com/gp/product/B01HA642SW/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/aux-cables-amazon.png)](https://www.amazon.com/gp/product/B0BF9JHGXK/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/bluetooth-speakers-amazon.png)](https://www.amazon.com/gp/product/B0834V1J2X/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/circuit-playground-express-kit-amazon.png)](https://www.amazon.com/gp/product/B0834V1J2X/)
