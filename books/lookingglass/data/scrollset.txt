@@ -1,0 +1,6 @@
+{
+    "server": "https://www.ffbus.org/books/lookingglass/",
+    "scrolls": [
+        "home"
+    ]
+}
