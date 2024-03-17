@@ -1,6 +1,20 @@
 {
-    "server": "https://www.ffbus.org/books/alice/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/cart/main/books/alice/",
     "scrolls": [
-        "home"
+        "alice",
+        "home",
+        "i",
+        "ii",
+        "iii",
+        "iv",
+        "ix",
+        "replicator",
+        "v",
+        "vi",
+        "vii",
+        "viii",
+        "x",
+        "xi",
+        "xii"
     ]
 }
