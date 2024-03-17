@@ -1,5 +1,5 @@
 {
-    "server": "https://www.ffbus.org/books/g1/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/cart/main/books/geometron/",
     "scrolls": [
         "FAQ",
         "actiongeometry.md",
