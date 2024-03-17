@@ -1,6 +1,19 @@
 {
-    "server": "https://www.ffbus.org/books/lookingglass/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/cart/main/books/lookingglass/",
     "scrolls": [
-        "home"
+        "home",
+        "i",
+        "ii",
+        "iii",
+        "iv",
+        "ix",
+        "replicator",
+        "v",
+        "vi",
+        "vii",
+        "viii",
+        "x",
+        "xi",
+        "xii"
     ]
 }
