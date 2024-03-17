@@ -1,5 +1,5 @@
 {
-    "server": "https://mississippiriver.xyz/pibrary/revolution%20of%20everyday%20life/",
+    "server": "https://raw.githubusercontent.com/LafeLabs/cart/main/books/revolution-of-everyday-life/",
     "scrolls": [
         "1.1",
         "1.2",
