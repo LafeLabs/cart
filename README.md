@@ -27,7 +27,7 @@
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/sdr-amazon.png)](https://www.amazon.com/gp/product/B01HA642SW/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/aux-cables-amazon.png)](https://www.amazon.com/gp/product/B0BF9JHGXK/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/bluetooth-speakers-amazon.png)](https://www.amazon.com/gp/product/B0834V1J2X/)
-[![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/circuit-playground-express-kit-amazon.png)](https://www.amazon.com/gp/product/B0834V1J2X/)
+[![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/circuit-playground-express-kit-amazon.png)](https://www.amazon.com/dp/B0764MCBNR)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/microphone-amazon.png)](https://www.amazon.com/gp/product/B08PV5CF1F/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/light-strip-amazon.png)](https://www.amazon.com/gp/product/B075VSJTR9/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/white-usb-light-amazon.png)](https://www.amazon.com/gp/product/B084HLSXJV/)
