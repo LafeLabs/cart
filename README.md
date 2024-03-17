@@ -33,7 +33,7 @@
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/white-usb-light-amazon.png)](https://www.amazon.com/gp/product/B084HLSXJV/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/rainbow-usb-light-amazon.png)](https://www.amazon.com/gp/product/B09TCZC3QJ/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/ac-line-extension-amazon.png)](https://www.amazon.com/gp/product/B002HWMY9E/)
-[![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/solar-dc-extension-amazon.png)](https://www.amazon.com/gp/product/B002HWMY9E/)
+[![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/solar-dc-extension-amazon.png)](https://www.amazon.com/Jackery-Extension-Cable-Solar-Panel/dp/B09Q62HZ1C/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/solar-panel-amazon.png)](https://www.amazon.com/gp/product/B09W2CFT61/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/power-station-amazon.png)](https://www.amazon.com/gp/product/B082TMBYR6/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/casters-amazon.png)](https://www.amazon.com/gp/product/B088PPFMCL/)
