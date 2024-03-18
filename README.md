@@ -16,6 +16,7 @@
 
 # BILL OF MATERIALS 
 
+*ABOUT A THOUSAND DOLLARS*
 
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/pi-amazon.png)](https://www.amazon.com/gp/product/B07TC2BK1X/)
 [![](https://raw.githubusercontent.com/LafeLabs/cart/main/images/pi-screen-amazon.png)](https://www.amazon.com/gp/product/B07NNXH2SS/)
