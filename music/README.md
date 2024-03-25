@@ -2,6 +2,6 @@
 
 # MUSIC
 
- - MEGATON LEVIATHAN
- - MERLOCK
- - YOUR BAND HERE!
+ - [DOOMGAZE](doomgaze/)
+ - [The Last Poet Discography](thelastpoet/)
+ - [fork.html](fork.html)
