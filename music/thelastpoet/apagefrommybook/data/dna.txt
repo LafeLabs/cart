@@ -17,7 +17,6 @@
     ],
     "skins": [
         "Blue_Jeans_v13.wsz",
-        "Carrie-Anne Moss.wsz",
         "DOSAmp.wsz",
         "Episode_II_Obi-Wan_Kenobi_3.wsz",
         "Evil_Dead_1_Skin.wsz",
@@ -42,7 +41,17 @@
         "text2php.txt"
     ],
     "songs": [
-        "elements_64kb.mp3",
-        "internationale.mp3"
+        "The Last Poet - A Page from My Book - 01 I Gotcha (Prod. by Yung N' Icy).mp3",
+        "The Last Poet - A Page from My Book - 02 Check It (Prod. by Penny Diamond).mp3",
+        "The Last Poet - A Page from My Book - 03 Future Girl (Prod. By Penny Diamond).mp3",
+        "The Last Poet - A Page from My Book - 04 Mama Said Apply Pressure.mp3",
+        "The Last Poet - A Page from My Book - 05 Shaderoom (Prod. by Penny Diamond).mp3",
+        "The Last Poet - A Page from My Book - 06 A Smooth Slide feat. Memo (Prod. by Penny Diamond).mp3",
+        "The Last Poet - A Page from My Book - 07 Broke Nigga Shit (Prod. by Shree).mp3",
+        "The Last Poet - A Page from My Book - 08 Diary Remix.mp3",
+        "The Last Poet - A Page from My Book - 09 Long Walk Remix.mp3",
+        "The Last Poet - A Page from My Book - 10 Closure (Prod. by Mickey P. Boomin').mp3",
+        "The Last Poet - A Page from My Book - 11 X (Prod. by Hitman Hunna).mp3",
+        "The Last Poet - A Page from My Book - 12 WAP Remix.mp3"
     ]
 }
