@@ -17,7 +17,6 @@
     ],
     "skins": [
         "Blue_Jeans_v13.wsz",
-        "Carrie-Anne Moss.wsz",
         "DOSAmp.wsz",
         "Episode_II_Obi-Wan_Kenobi_3.wsz",
         "Evil_Dead_1_Skin.wsz",
@@ -42,7 +41,11 @@
         "text2php.txt"
     ],
     "songs": [
-        "elements_64kb.mp3",
-        "internationale.mp3"
+        "The Last Poet - Hip Hop Baby - 01 Intro feat. Who's Los.mp3",
+        "The Last Poet - Hip Hop Baby - 02 Freeway feat. Who's Los.mp3",
+        "The Last Poet - Hip Hop Baby - 03 F.A.R. Fake Ass Rapper Skit feat. The Last Lightskin.mp3",
+        "The Last Poet - Hip Hop Baby - 04 Don't Fuck With Me.mp3",
+        "The Last Poet - Hip Hop Baby - 05 Hip Hop Baby.mp3",
+        "beatin up a bitch_mixdown.mp3"
     ]
 }
