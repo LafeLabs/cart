@@ -15,6 +15,8 @@ QR CODE PAGE HERE
 REPLICATE!
 
 ```
+mkdir thelastpoet
+cd thelastpoet
 wget https://raw.githubusercontent.com/LafeLabs/cart/main/music/thelastpoet/replicator.php
 php replicator.php
 mkdir apagefrommybook
@@ -97,7 +99,7 @@ wget https://github.com/LafeLabs/cart/raw/main/music/thelastpoet/unfinishedunrel
 wget https://github.com/LafeLabs/cart/raw/main/music/thelastpoet/unfinishedunreleased/mixtape/The%20Last%20Poet%20-%20Beethoven.mp3
 wget https://github.com/LafeLabs/cart/raw/main/music/thelastpoet/unfinishedunreleased/mixtape/The%20Last%20Poet%20-%20Spacetime%20Diamond.mp3
 wget https://github.com/LafeLabs/cart/raw/main/music/thelastpoet/unfinishedunreleased/mixtape/the%20Last%20Poet%20-%20Crash%20Out.mp3
-
+cd ..
 ```
 
 
